@@ -1,0 +1,12 @@
+2025-08-15 08:07:48,734 - INFO - Start the Program
+2025-08-15 08:07:48,734 - INFO - Create the Window
+2025-08-15 08:07:48,837 - INFO - Make the Window Center
+2025-08-15 08:07:48,837 - INFO - Add a title
+2025-08-15 08:07:48,837 - INFO - Add Icon Image
+2025-08-15 08:07:48,911 - INFO - First add Entry Field to the Created Window
+2025-08-15 08:07:48,913 - INFO - Add Button using ttk module and give the Command As well
+2025-08-15 08:07:48,919 - INFO - Add a label to the Created Window
+2025-08-15 08:07:48,920 - INFO - Run the Window
+2025-08-15 08:07:53,288 - INFO - User Clicked the Button
+2025-08-15 08:07:53,289 - INFO - get that Text and pass to the label
+2025-08-15 08:07:53,289 - INFO - Make the Button Clicked Ones
